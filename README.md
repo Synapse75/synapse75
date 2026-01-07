@@ -10,6 +10,10 @@
 
 ---
 
+[![Synapse's GitHub stats](https://github-readme-stats.vercel.app/api?username=synapse75)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 🌟 About Me
 
 I'm a **Sophomore CSE Student** passionate about game development and web technologies. Currently exploring the world of programming, creating interactive experiences, and learning new tech every day!
